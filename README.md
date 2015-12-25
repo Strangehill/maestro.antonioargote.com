@@ -1,3 +1,3 @@
-# Teach.AntonioArgote.com
+# teach.antonioargote.com
 
 A little bit about my teaching.
